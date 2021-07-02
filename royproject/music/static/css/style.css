@@ -1,0 +1,87 @@
+nav {
+    text-align: center;
+    word-spacing: 5px;
+    width: 100%;
+}
+
+body {
+    margin: 0px;
+}
+main {
+    margin: 0px 30px 0px 30px;
+}
+#first-theme-picture {
+    float: left;
+}
+
+#nav-home {
+    color: #CCCCCC;
+    background: #111111;
+    border-right: 1px solid white;
+    padding: 12px 0px;
+    width: 103px;
+    height: 22px;
+}
+
+#nav-stream {
+    color: #CCCCCC;
+    background: #333333;
+    border-right: 1px;
+    padding: 12px 0px;
+    width: 103px;
+    height: 22px;
+}
+
+#nav-library {
+    color: #CCCCCC;
+    background: #333333;
+    border-right: 1px;
+    padding: 12px 0px;
+    width: 103px;
+    height: 22px;
+}
+
+#nav-whole {
+    padding: 9px 10px 8px;
+    background: #333333;
+    height: 28px;
+}
+
+#searchbox {
+    color: #666666;
+    background: #E5E5E5;
+    padding: 5px 7px;
+    width: 213.025px;
+    height: 18px;
+    border-radius: 10px;
+}
+
+#nav-signin {
+    border: 1px solid #CCCCCC;
+    color: #cccccc;
+    background: #333333;
+    border-radius: 10px;
+    padding: 2px 11px 2px 10px;
+    width: 42.713;
+    height: 20px;
+}
+
+#nav-createaccount{
+    color: #CCCCCC;
+    background: #333333;
+    padding: 12px 0px;
+    width: 103px;
+    height: 22px;
+}
+
+#nav-upload{
+    color: #CCCCCC;
+    background: #333333;
+    border-right: 1px;
+    padding: 12px 0px;
+    width: 103px;
+    height: 22px;
+}
+hr{
+    width: 90%;
+}
